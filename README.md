@@ -9,7 +9,7 @@
   </style>
 </head>
 <body>
-  <h1>Hello, I'm Developer 🚀</h1>
+  <h1>Hello, I'm Developer 🚀</1>
   <div class="card">
     <p>Skills: HTML, CSS, JS, Python</p>
   </div>
