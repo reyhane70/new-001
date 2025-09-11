@@ -4,7 +4,7 @@
 <head>
   <title>My Portfolio</title>
   <style>
-    body { font-family: Arial; text-align: center; }
+     { font-family: Arial; text-align: center; }
     .card { padding: 20px; margin: 20px; border:  solid1xp #ccc; }
   </style>
 </head>
