@@ -8,7 +8,7 @@
   </style>
 </head>
 <body>
-  <h1>Hello, I'm Developer 🚀</>
+  <h1>Hello, I'm Developer 🚀</h1>
   <div class="card">
     <p>Skills: HTML, CSS, JS, Python</h>
   </div>
