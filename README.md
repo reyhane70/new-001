@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> ok
   <title>My Portfolio</title>
   <style>
    bady  { font-family: Arial; text-align: center; }
