@@ -6,7 +6,7 @@
    bady  { font-family: Arial; text-align: center; }
     .card { padding: 20px; margin: 20px; border:  solid1xp #ccc; }
   </style>
-
+</head>
 <body>
   <h1>Hello, I'm Developer 🚀</h1>
   <div class="card">
